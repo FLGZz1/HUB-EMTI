@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Felipe Oliveira",
+    "turma": "2º",
+    "site": "https://flgzz1.github.io/Mochila-Virtual/",
+    "github": "",
+    "descricao": "Site feito para registrar as aulas do EMTI",
+    "tags": ["html", "css", "js", "java"]
+  },
+  {
+    "nome": "Yago Soares",
+    "turma": "2º",
+    "site": "https://1tecno.github.io/Yago1227/",
+    "github": "",
+    "descricao": "Site feito durante as aulas do EMTI",
+    "tags": ["html", "css", "js", "java"]
+  },
+  {
+    "nome": "Gabriel Santana",
+    "turma": "2º",
+    "site": "https://gabs-kirio.github.io/MochilavirtualGabriel/",
+    "github": "",
+    "descricao": "Site feito durante as aulas do EMTI",
+    "tags": ["html", "css", "js", "java"]
+  },
+  {
+    "nome": "Nauan Pietro",
+    "turma": "2º",
+    "site": "https://1tecno.github.io/NauanSite/",
+    "github": "",
+    "descricao": "Site feito durante as aulas do EMTI",
+    "tags": ["html", "css", "js", "java"]
+  },
+  {
+    "nome": "Pedro Henrique",
+    "turma": "2º",
+    "site": "https://mika-a-star.github.io/Mochila/",
+    "github": "",
+    "descricao": "Site feito durante as aulas do EMTI",
+    "tags": ["html", "css", "js", "java"]
+  }
+]

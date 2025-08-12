@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HUB EMTI — Portfólios dos Alunos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <meta name="description" content="HUB do EMTI: descubra os sites dos alunos de Informática.">
+</head>
+<body>
+  <header class="topbar" role="banner">
+    <div class="container">
+      <h1>HUB EMTI</h1>
+      <p class="subtitle">Portfólios e projetos dos alunos</p><br>
+       <button id="toggle-theme" class="btn-toggle" aria-label="Alternar tema">🌙</button>
+      <div class="controls" role="search">
+        <input id="q" type="search" placeholder="Buscar por nome, turma ou tag..." aria-label="Buscar">
+        <select id="turma">
+          <option value="">Todas as turmas</option>
+          <option value="1º">1º</option>
+          <option value="2º">2º</option>
+          <option value="3º">3º</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" id="conteudo" role="main">
+    <section aria-live="polite">
+      <div id="grid" class="grid"></div>
+      <p id="empty" class="empty" hidden>Nenhum resultado encontrado.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <small>Feito pelo EMTI — Ipaba, MG</small>
+    </div>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
