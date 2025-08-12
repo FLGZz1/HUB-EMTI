@@ -3,7 +3,7 @@
     "nome": "Felipe Oliveira",
     "turma": "2º",
     "site": "https://flgzz1.github.io/Mochila-Virtual/",
-    "github": "",
+    "github": "https://github.com/FLGZz1",
     "descricao": "Site feito para registrar as aulas do EMTI",
     "tags": ["html", "css", "js", "java"]
   },
@@ -39,4 +39,5 @@
     "descricao": "Site feito durante as aulas do EMTI",
     "tags": ["html", "css", "js", "java"]
   }
+
 ]
